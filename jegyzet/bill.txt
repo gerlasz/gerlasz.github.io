@@ -1,0 +1,152 @@
+Ctrl + D                    a szöveg következő előfrodulásának a kijelölése
+Ctrl + F2                   összes kijelölés
+Bal Alt + nyil le fel       sormozgatás
+Bal Alt + Shift nyil le fel Másolás
+
+<!--
+Tábornok
+Ctrl + Shift + P, F1 A parancspaletta megjelenítése
+Ctrl + P Gyors megnyitás, Ugrás a fájlhoz…
+Ctrl + Shift + N Új ablak / példány
+Ctrl + Shift + W Ablak / példány bezárása
+Ctrl +, felhasználói beállítások
+Ctrl + K Ctrl + S Billentyűparancsok
+
+Alapvető szerkesztés
+Ctrl + X vágási sor (üres választás)
+Ctrl + C Másolás sor (üres választás)
+Alt + ↑ / ↓ Mozgatja a sort fel / le
+Shift + Alt + ↓ / ↑ Sor másolása fel / le
+Ctrl + Shift + K Sor törlése
+Ctrl + Írja be a beszúrási sort az alábbba
+Ctrl + Shift + Írja be a fenti sort
+Ctrl + Shift + \ Ugrás a megfelelő konzolra
+Ctrl +] / [behúzás / kihúzás
+Kezdőlap / vége Ugrás a sor elejére / végére
+Ctrl + Home Ugrás a fájl elejére
+Ctrl + End Ugrás a fájl végére
+Ctrl + ↑ / ↓ Görgetés felfelé / lefelé
+Alt + PgUp / PgDn Az oldal fel / le görgetése
+Ctrl + Shift + [behajtás (összecsukás) régió)
+Ctrl + Shift +] Bontsa ki (bontsa le) régiót
+Ctrl + K Ctrl + [Az összes alrégió összecsukása (összecsukása)
+Ctrl + K Ctrl +] Az összes alrégió feloldása (összecsukása)
+Ctrl + K Ctrl + 0 Az összes régió behajtása (összecsukása)
+Ctrl + K Ctrl + J Az összes régió kinyitása (boncolása)
+Ctrl + K Ctrl + C Sormegjegyzés hozzáadása
+Ctrl + K Ctrl + U Eltávolítja a sor megjegyzését
+Ctrl + / Váltás a sorra
+Shift + Alt + A Váltás blokkolására
+Alt + Z A Word Wrap átváltása
+
+Navigáció
+Ctrl + T Az összes szimbólum megjelenítése
+Ctrl + G Ugrás a sorra ...
+Ctrl + P Ugrás a fájlhoz ...
+Ctrl + Shift + O Ugrás a szimbólumhoz ...
+Ctrl + Shift + M Problémák panel megjelenítése
+F8 Ugrás a következő hibára vagy figyelmeztetésre
+Shift + F8 Ugrás az előző hibára vagy figyelmeztetésre
+Ctrl + Shift + Tab A szerkesztőcsoport előzményeinek navigálása
+Alt + ← / → vissza / előre
+Ctrl + M Váltás fül mozgatja a fókuszt
+
+Keresse meg és cserélje ki
+Ctrl + F Keresés
+Ctrl + H Cserélje ki
+F3 / Shift + F3 A következő / előző keresése
+Alt + Enter Válassza ki a Találat összes előfordulását
+Ctrl + D Válassza ki a következő találatot
+Ctrl + K Ctrl + D Utolsó választás mozgatása a következő találatra
+Alt + C / R / W Váltás a kis- és nagybetűk között / egész szöveg / egész szó
+Több kurzor és kiválasztás
+Alt + Kattintson a Kurzor beszúrása elemre
+Ctrl + Alt + ↑ / ↓ Helyezze a kurzort a fenti / fölfelé
+Ctrl + U Az utolsó kurzorművelet visszavonása
+Shift + Alt + I Helyezze a kurzort minden kiválasztott sor végére
+Ctrl + L Az aktuális sor kiválasztása
+Ctrl + Shift + L Az aktuális kiválasztás minden előfordulásának kiválasztása
+Ctrl + F2 Az aktuális szó összes előfordulásának kiválasztása
+Shift + Alt + → Kiválasztás kibontása
+Shift + Alt + ← Zsugorítás kiválasztása
+Shift + Alt +
+(húzza az egeret)
+Oszlop (doboz) kiválasztása
+Ctrl + Shift + Alt
++ (nyíl gomb)
+Oszlop (doboz) kiválasztása
+Ctrl + Shift + Alt
++ PgUp / PgDn
+Oszlop (doboz) kiválasztási oldal fel / le
+Gazdag nyelvek szerkesztése
+Ctrl + Space Trigger javaslat
+Ctrl + Shift + Space Trigger paraméter-tanácsok
+Shift + Alt + F A dokumentum formázása
+Ctrl + K Ctrl + F A formátum kiválasztása
+F12 Ugrás a meghatározáshoz
+Alt + F12 Peek meghatározás
+Ctrl + K F12 Nyissa meg a meghatározást oldalra
+Ctrl +. Gyors javítás
+Shift + F12 Hivatkozások megjelenítése
+F2 Szimbólum átnevezése
+Ctrl + K Ctrl + X Vágja le a szóközt
+Ctrl + K M A fájl nyelvének módosítása
+Szerkesztő menedzsment
+Ctrl + F4, Ctrl + W Bezárás szerkesztő
+Ctrl + K F Bezárja a mappát
+Ctrl + \ Osztott szerkesztő
+Ctrl + 1/2/3 Összpontosítás az 1., 2. vagy 3. szerkesztőcsoportba
+Ctrl + K Ctrl + ← / → Összpontosítás az előző / következő szerkesztőcsoportba
+Ctrl + Shift + PgUp / PgDn A szerkesztő mozgatása balra / jobbra
+Ctrl + K ← / → Az aktív szerkesztőcsoport áthelyezése
+
+Fájlkezelés
+Ctrl + N Új fájl
+Ctrl + O Fájl megnyitása ...
+Ctrl + S Mentés
+Ctrl + Shift + S Mentés másként ...
+Ctrl + K S Összes mentése
+Ctrl + F4 Bezárás
+Ctrl + K Ctrl + W Az összes bezárása
+Ctrl + Shift + T A zárt szerkesztő újbóli megnyitása
+Ctrl + K Enter Az előnézeti mód szerkesztő nyitva tartása
+Ctrl + Tab Következő megnyitás
+Ctrl + Shift + Tab Előző megnyitása
+Ctrl + K P Az aktív fájl útvonalának másolása
+Ctrl + K R Feltárja az aktív fájlt az Intézőben
+Ctrl + K O Az aktív fájl megjelenítése új ablakban / példányban
+
+Kijelző
+F11 Teljes képernyő váltás
+Shift + Alt + 0 Váltás a szerkesztő elrendezésére (vízszintes / függőleges)
+Ctrl + = / - Nagyítás / kicsinyítés
+Ctrl + B Az oldalsáv láthatóságának váltása
+Ctrl + Shift + E Az Intéző / Váltás fókuszának megjelenítése
+Ctrl + Shift + F A keresés megjelenítése
+Ctrl + Shift + G Forrásvezérlés megjelenítése
+Ctrl + Shift + D Hibakeresés megjelenítése
+Ctrl + Shift + X Bővítmények megjelenítése
+Ctrl + Shift + H Cserélje ki a fájlokat
+Ctrl + Shift + J Váltás a keresés részleteiről
+Ctrl + Shift + U A kimeneti panel megjelenítése
+Ctrl + Shift + V A Markdown előnézet megnyitása
+Ctrl + K V Nyissa meg a Markdown előnézetet oldalra
+Ctrl + K Z Zen mód (Esc Esc kilépéshez)
+
+Debug
+F9 Váltás a töréspontra
+F5 Indítás / folytatás
+Shift + F5 Stop
+F11 / Shift + F11 Lépjen be / ki
+F10 Folytasson
+Ctrl + K Ctrl + I Lebeg
+
+Integrált terminál
+Ctrl + `Integrált terminál megjelenítése
+Ctrl + Shift + `Új terminál létrehozása
+Ctrl + C Másolás kiválasztása
+Ctrl + V Beillesztés az aktív terminálba
+Ctrl + ↑ / ↓ Görgessen fel / le
+Shift + PgUp / PgDn Az oldal fel / le görgetése
+Ctrl + Kezdőlap / Vége Görgessen fel / le
+-->
